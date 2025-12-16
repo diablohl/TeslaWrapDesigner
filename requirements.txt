@@ -1,0 +1,18 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+future @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+importlib_metadata==8.7.0
+lxml==6.0.2
+macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+numpy==2.0.2
+packaging==25.0
+pillow==11.3.0
+pyinstaller==6.17.0
+pyinstaller-hooks-contrib==2025.10
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.18
+PyQt5_sip==12.17.1
+python-pptx==1.0.2
+six @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+typing_extensions==4.15.0
+xlsxwriter==3.2.9
+zipp==3.23.0
